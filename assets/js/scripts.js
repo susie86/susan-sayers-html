@@ -277,7 +277,7 @@ jQuery(function ($) {
     // -------------------------------------------------------------
 
     (function () {
-        var myLatlng = new google.maps.LatLng(52.350148, -7.397392);
+        var myLatlng = new google.maps.LatLng(52.47378940000001, -8.161851399999932);
 
             var styles = [
                 {

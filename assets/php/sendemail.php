@@ -6,7 +6,7 @@
 	$message = @trim(stripslashes($_POST['message'])); 
 
 	$email_from = $email;
-	$email_to = 'yourmail@gmail.com'; //replace with your email
+	$email_to = 'susansayers@gmail.com'; //replace with your email
 
 	$body = 'Name: ' . $name . "\n\n" . 'Email: ' . $email . "\n\n" . 'Subject: ' . $subject . "\n\n" . 'Message: ' . $message;
 
@@ -17,6 +17,6 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
-	<script>alert("Thank you for contact us. As early as possible  we will contact you.");</script>
+	<script>alert("Thank you for contact me. I will get back to you as soon as possible!");</script>
 	<meta HTTP-EQUIV="REFRESH" content="0; url=http://trendytheme.net/demo/iamx/v/"> 
 </head>

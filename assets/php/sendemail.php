@@ -22,9 +22,9 @@
 <html lang="en-US">
 <head>
 <<<<<<< HEAD
-	<script>alert("Thank you for contact me. I will get back to you as soon as possible!.");</script>
+	<script>alert("Thank you for contacting me. I will get back to you as soon as possible!.");</script>
 =======
-	<script>alert("Thank you for contact me. I will get back to you as soon as possible!");</script>
+	<script>alert("Thank you for contacting me. I will get back to you as soon as possible!");</script>
 >>>>>>> 018f57c98152c5b82f743892ff70c22282d8279e
 	<meta HTTP-EQUIV="REFRESH" content="0; url=http://trendytheme.net/demo/iamx/v/"> 
 </head>
